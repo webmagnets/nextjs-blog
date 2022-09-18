@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
             {/* eslint-disable-next-line react/no-unescaped-entities */}
           <p>Hello, I'm <b>Nathan</b> Cain</p>
           <p>
-            (This is a sample website - you’ll be building a site like this on{' '}
+            (This is a real website - you’ll be building a site like this on{' '}
             <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
           </p>
         </section>
